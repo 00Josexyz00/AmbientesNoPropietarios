@@ -1,0 +1,342 @@
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\slnProyecto.dll.config
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\slnProyecto.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\slnProyecto.pdb
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\csc.exe
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\csc.exe.config
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\csc.rsp
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\csi.exe
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\csi.exe.config
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\csi.rsp
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.AppContext.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Console.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Security.Claims.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\vbc.exe
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\vbc.exe.config
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\vbc.rsp
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Antlr3.Runtime.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\EntityFramework.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\EntityFramework.SqlServer.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.SqlServer.Types.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Newtonsoft.Json.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Web.Helpers.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Web.Mvc.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Web.Optimization.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Web.Razor.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Web.WebPages.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Web.WebPages.Razor.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\WebGrease.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\EnvDTE.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\stdole.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.MSXML.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\EntityFramework.xml
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\EntityFramework.SqlServer.xml
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Web.Helpers.xml
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Web.Mvc.xml
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Web.Optimization.xml
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Web.Razor.xml
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Web.WebPages.xml
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Web.WebPages.Razor.xml
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Newtonsoft.Json.xml
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Antlr3.Runtime.pdb
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\obj\Debug\slnProyecto.csprojAssemblyReference.cache
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\obj\Debug\slnProyecto.csproj.CoreCompileInputs.cache
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\obj\Debug\slnProyecto.csproj.CopyComplete
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\obj\Debug\slnProyecto.dll
+C:\Users\ESFOT\Desktop\Soto.Kelly\slnProyecto\slnProyecto\obj\Debug\slnProyecto.pdb
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\SqlServerTypes\x64\msvcr120.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\SqlServerTypes\x86\msvcr120.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\slnProyecto.dll.config
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\slnProyecto.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\slnProyecto.pdb
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\csc.exe
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\csc.exe.config
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\csc.rsp
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\csi.exe
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\csi.exe.config
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\csi.rsp
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.AppContext.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Collections.Immutable.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Console.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.IO.Compression.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.IO.FileSystem.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.IO.Pipes.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Reflection.Metadata.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Security.AccessControl.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Security.Claims.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.ValueTuple.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Xml.XPath.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\vbc.exe
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\vbc.exe.config
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\vbc.rsp
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\VBCSCompiler.exe
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\roslyn\VBCSCompiler.exe.config
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Antlr3.Runtime.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\EntityFramework.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\EntityFramework.SqlServer.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.ReportViewer.Common.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.ReportViewer.DataVisualization.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.ReportViewer.Design.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.ReportViewer.WebDesign.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.ReportViewer.WebForms.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.ReportViewer.WinForms.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.SqlServer.Types.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.Web.Infrastructure.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Newtonsoft.Json.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Web.Helpers.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Web.Mvc.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Web.Optimization.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Web.Razor.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Web.WebPages.Deployment.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Web.WebPages.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Web.WebPages.Razor.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\WebGrease.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\EnvDTE.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\stdole.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.MSXML.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\EntityFramework.xml
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\EntityFramework.SqlServer.xml
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Web.Helpers.xml
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Web.Mvc.xml
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Web.Optimization.xml
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Web.Razor.xml
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Web.WebPages.xml
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Web.WebPages.Deployment.xml
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Web.WebPages.Razor.xml
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Newtonsoft.Json.xml
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Antlr3.Runtime.pdb
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\es\System.Web.Helpers.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\es\System.Web.Mvc.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\es\System.Web.Optimization.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\es\System.Web.Razor.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\es\System.Web.WebPages.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\obj\Debug\slnProyecto.csprojAssemblyReference.cache
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\obj\Debug\slnProyecto.csproj.CoreCompileInputs.cache
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\obj\Debug\slnProyecto.csproj.CopyComplete
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\obj\Debug\slnProyecto.dll
+E:\Politecnica\Semestre 4\Politecnica\arquitectura\Cortez.Jose\slnProyecto\slnProyecto\obj\Debug\slnProyecto.pdb

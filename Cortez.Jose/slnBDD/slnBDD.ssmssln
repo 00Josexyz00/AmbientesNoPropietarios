@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "slnBDD", "slnBDD\slnBDD.ssmssqlproj", "{04E96C81-4EE6-4293-8975-CD952051EF9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Predeterminado|Default = Predeterminado|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04E96C81-4EE6-4293-8975-CD952051EF9F}.Predeterminado|Default.ActiveCfg = Predeterminado
+		{00000000-0000-0000-0000-000000000000}.Predeterminado|Default.ActiveCfg = Predeterminado
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

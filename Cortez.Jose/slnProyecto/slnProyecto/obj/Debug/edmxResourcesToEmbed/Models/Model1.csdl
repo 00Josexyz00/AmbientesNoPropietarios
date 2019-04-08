@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bibliotecaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="libro">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="ISBN" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="titulo" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="nombreAutor" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="apellidoAutor" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="precio" Type="Int32" />
+    <Property Name="categoria" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="proveedores">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="direccion" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="pais" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="ciudad" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="telefon" Type="Int32" />
+    <Property Name="email" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="URL" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="bibliotecaEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="libro" EntityType="Self.libro" />
+    <EntitySet Name="proveedores" EntityType="Self.proveedores" />
+  </EntityContainer>
+</Schema>
